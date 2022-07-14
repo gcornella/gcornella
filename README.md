@@ -1,12 +1,8 @@
 ### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 ## My name is Guillem Cornella
-### I am a Robotics Engineer
 
-
-=======================================================================================================================================
-
-Robotics Engineer
+I am a Robotics Engineer
 --------------------
 
 I have a M.S. Degree in Robotics and Automation by the UPC (Universitat Politècnica de Catalunya). As a student, I have conducted several projects from various specialities, being Computer Vision, Machine Learning and Robotics my preffered ones. My main objective/motivation is to create extraordinary prototypes by interconnecting Hardware and Software, which can be combined in order to improve one's life.
