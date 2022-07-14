@@ -20,9 +20,10 @@ I have a M.S. Degree in Robotics and Automation by the UPC (Universitat Politèc
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>                              
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg" width="36" height="36" alt="Solidworks" /></a>
-
+<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/solidworks-icon/solidworks-icon-25.jpg" width="36" height="36" alt="Solidworks" /></a>
+<a href="https://es.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="Solidworks" /></a>
+<a href="https://es.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/en/archive/3/36/20220406131748%21Simulink_Logo_%28non-wordmark%29.png" width="36" height="36" alt="Simulink" /></a>
+  
 </p>
                     
 ### Currently learning:   
@@ -31,6 +32,7 @@ I have a M.S. Degree in Robotics and Automation by the UPC (Universitat Politèc
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a> 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>               
 
 ### Socials
