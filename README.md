@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
-
-
-Hi ![]<iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p> My name is Guillem Cornella
+## My name is Guillem Cornella, I am a Robotics Engineer
 
 
 =======================================================================================================================================
