@@ -5,9 +5,9 @@
 I am a Robotics Engineer
 --------------------
 
-I have a M.S. Degree in Robotics and Automation by the UPC (Universitat Politècnica de Catalunya). As a student, I have conducted several projects from various specialities, being Computer Vision, Machine Learning and Robotics my preffered ones. My main objective/motivation is to create extraordinary prototypes by interconnecting Hardware and Software, which can be combined in order to improve one's life.
+I have a Ph.D. in Mechanical Engineering by the University of California Irvine, and a M.S. Degree in Robotics and Automation by the UPC (Universitat Politècnica de Catalunya). As a student, I have conducted several projects from various specialities, being Wearables, Computer Vision, Machine Learning and Robotics my preffered ones. My main objective/motivation is to create extraordinary prototypes by interconnecting Hardware and Software, which can be combined in order to improve one's life.
 
-*   🌍  I'm based in Barcelona.
+*   🌍  I'm based in Irvine, US.
 *   ✉️  You can contact me at [gcornella15@gmail.com](mailto:gcornella15@gmail.com)
 *   🚀  I'm a prototype builder.
 *   🧠  I'm always learning new programming languages.
